@@ -1,0 +1,52 @@
+table		{
+		width: auto;
+		margin-left:150px;
+		}
+		
+td		{
+		vertical-align: top;
+		}
+
+
+#cart		{border: 1px solid #999;
+		border-radius:4px;
+		padding:4px;
+		width: 300px;
+		min-height:200px;
+		float:right;
+		font-size: smaller;
+		margin-right:100px;
+		}
+		
+#cart h2	{	
+		border-bottom:1px solid #ccc;
+		font-weight: bold;
+		margin-bottom:20px;}
+		
+#status		{
+		font-style: italic;
+		}
+
+.shopimg	{width:150px;
+		margin-bottom:10px;
+		background-color:#ffffff;
+		border:3px solid grey;}
+		
+label		{
+		font-size:small;
+		
+		}
+		
+input,
+select		{font-size:large;}
+output		{font-style:italic;color:#999;}
+.validation-message{font-style: italic; color:#999;font-size: smaller;}
+.success{background: #afa;padding:1em;}
+.error{background: #faa;padding:1em;}
+.working{background: #aaf;padding:1em;}
+
+.cform-columns-2
+  .cform-column-1{float:left;width:50%;}
+  .cform-column-2{float:left;width:50%;}
+  .cform-buttonbar{clear:both;background-color:#ccc;padding:1em;border:1px solid #aaa;}
+   .cform-buttonbar   p{margin-bottom:0;}
